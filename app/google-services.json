@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433654631806",
+    "project_id": "smartbhadradri-by-quicko-group",
+    "storage_bucket": "smartbhadradri-by-quicko-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433654631806:android:d10646c796e1ef3923772f",
+        "android_client_info": {
+          "package_name": "com.smartbhadradri.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433654631806-a3bogafqq4bmv4tdfi3ba7se5tf4tf49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyc2K9oKFv1K2ab5uhZXyfXB_5Jnq3Xe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433654631806-a3bogafqq4bmv4tdfi3ba7se5tf4tf49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
